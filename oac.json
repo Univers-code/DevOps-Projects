@@ -1,0 +1,9 @@
+{
+  "Name": "yeniel-oac",
+  "OriginAccessControlConfig": {
+    "Name": "yeniel-oac",
+    "SigningProtocol": "sigv4",
+    "SigningBehavior": "always",
+    "OriginAccessControlOriginType": "s3"
+  }
+}
